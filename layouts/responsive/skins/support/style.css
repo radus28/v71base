@@ -1,0 +1,30 @@
+@import url("../vtiger/common.css");
+
+.coloredBorderBottom {
+  border-bottom: 1px solid #6297C3;
+}
+.coloredBorderTop {
+  border-top: 1px solid #6297C3;
+}
+.portal-dashboard {
+  border: 1px solid #6297C3 !important;
+  border-left: 0px !important;
+  min-height: 500px;
+  padding-left: 15px;
+}
+.portal-fields-content {
+  border-right: 1px solid #6297C3 !important;
+  min-height: 500px;
+}
+.portalModuleRow {
+  border-left: 4px solid #6297C3 !important;
+}
+.portalMenuHeader {
+  border-bottom: 1px solid #6297C3 !important;
+  border-right: 1px solid #6297C3 !important;
+  font-size: 22px;
+}
+.modules-menu ul li.active a {
+  border-left: 3px solid #6297C3;
+  opacity: 1;
+}
