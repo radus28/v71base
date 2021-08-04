@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Radus V71 Pages
 
 You can use the [editor on GitHub](https://github.com/radus28/v71base/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
